@@ -43,7 +43,7 @@ This script will print out all available timezone values. You can use any of the
 Run the script:
 
 ```
-python script_name.py
+python sync-calendar-taiga.py
 ```
 
 On first run, you'll be prompted to authorize the application to access your Google Calendar. Follow the provided URL to grant permission.
